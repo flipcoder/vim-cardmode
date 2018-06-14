@@ -1,5 +1,5 @@
 # vim-cardmode
-Cardmode plaintext project management in vim, compatible with Trello.
+Plaintext project management in vim, compatible with Trello.
 
-In progress: https://github.com/flipcoder/cardmode
+Currently building backend: https://github.com/flipcoder/cardmode
 
